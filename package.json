@@ -1,0 +1,9 @@
+{
+  "name": "web-log-inspector",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free Node.js CLI for HTTP log analysis and offline HTML reports",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test", "demo": "node cli.js samples/access.jsonl" }
+}
