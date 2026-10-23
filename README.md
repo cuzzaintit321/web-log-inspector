@@ -4,7 +4,6 @@
 
 A **JavaScript / Node.js** command-line tool that turns HTTP request logs into an error summary, route rankings, response-time statistics, and a self-contained HTML report. No npm dependencies, external services, or network requests.
 
-Built as a new learning and portfolio project for Jason Edwards. The sample logs are fictional; this repository does not claim production use or professional incident-response history.
 
 ## Run the sample
 
